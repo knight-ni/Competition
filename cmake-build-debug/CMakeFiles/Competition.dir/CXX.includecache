@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/CppProjects/Competition/Manager.cpp
+Manager.h
+/cygdrive/d/CppProjects/Competition/Manager.h
+Player.h
+/cygdrive/d/CppProjects/Competition/Player.h
+algorithm
+-
+
+/cygdrive/d/CppProjects/Competition/Manager.h
+iostream
+-
+string
+-
+vector
+-
+deque
+-
+map
+-
+Player.h
+/cygdrive/d/CppProjects/Competition/Player.h
+numeric
+-
+functional
+-
+fstream
+-
+
+/cygdrive/d/CppProjects/Competition/Player.h
+string
+-
+

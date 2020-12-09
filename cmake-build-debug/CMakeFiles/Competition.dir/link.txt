@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Competition.dir/Manager.cpp.o CMakeFiles/Competition.dir/main.cpp.o  -o Competition.exe -Wl,--out-implib,libCompetition.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
